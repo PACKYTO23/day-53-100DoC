@@ -5,3 +5,4 @@ Day 53 - Capstone Project - Data Entry Job Automation
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (19/06/2024); update tomorrow.
+    Finished practice (20/06/2024); updated.
